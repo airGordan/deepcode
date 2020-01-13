@@ -1,0 +1,18 @@
+h1{text-align:center;color:white;}
+
+h2{margin-left:5%;color:white;}
+
+p{text-indent:32px;
+
+font-size:16px;
+
+line-height:32px;
+
+color:white;}
+
+body{
+   background-image:url("img/图书馆.jfif");
+
+   background-repeat: no-repeat;
+
+background-size: cover;		}
